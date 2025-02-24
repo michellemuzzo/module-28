@@ -7,7 +7,7 @@ body,
 body > div {
   height: 100vh;
   width: 100vw;
-  background-color: purple; 
+  background-color: purple; /* Set the background to purple */
 }
 
 #container {
@@ -46,5 +46,4 @@ body > div {
   color: white;
 }
 
-
-
+/* Add more styles if necessary to adjust the text color or buttons */
